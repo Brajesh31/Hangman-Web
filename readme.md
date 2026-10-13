@@ -1,2 +1,3 @@
-# Hangman Web
-## Web based hangman game
+# Repository
+
+Last updated: 2026-10-13 20:53 UTC
